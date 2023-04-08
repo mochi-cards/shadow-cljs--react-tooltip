@@ -1,0 +1,11 @@
+{
+  "name": "shadow-boilerplate",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.19.8"
+  },
+  "dependencies": {
+    "react-tooltip": "^5.10.5"
+  }
+}
